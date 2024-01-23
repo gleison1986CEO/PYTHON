@@ -22,8 +22,11 @@ class EXTRACTS():
         Save.Save(text, hash) ## this text will pass data to another function on save data
         print('generate text') ## FOR TESTE
         print(text) ## FOR TESTE
+        # Quizes.Quiz(text, hash)  ## HERE WILL CALL METHOD QUIZ AND GENERATE ALL QUIZES FROM TEXTS
         print('generate quizes') ## FOR TESTE
         return text
+       
+
        
 
        

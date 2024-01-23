@@ -1,3 +1,5 @@
+# you can GET FULLCODE FOR 20 USD our BTC on contact me
+
 # DONWLOAD VIDEOS
 - Donwload videos from YT with python3
 - pydube LIB
